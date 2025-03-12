@@ -1,6 +1,6 @@
 {
   "name": "Investment",
-  "short_name": "-Investment-",
+  "short_name": "Investment",
   "description": "Helpful Assistant AI",
   "start_url": "https://script.google.com/macros/s/AKfycbwe7ghajc23FcpQkLWZOfzrkpkv6-WbmUPpf0MVF2fnfpF3P-acqQ0LUKBnq1ypSp6YxA/exec",
   "display": "standalone",
